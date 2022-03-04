@@ -2,7 +2,7 @@
 
 require 'header.php';
 
-$number = array(10,20,3,40);
+$number = array(10,20,3,20);
 
 
 for($i=0;$i<3;$i++){
